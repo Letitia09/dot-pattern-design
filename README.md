@@ -11,7 +11,6 @@ WELCOME
 <pre>
 N = 5
 M = 15
-String = WELCOME
 . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . 
 . . . . W E L C O M E . . . . 
@@ -28,7 +27,6 @@ WELCOME
 <pre>
 N = 3
 M = 9
-String = WELCOME
 . . . . . . . . . 
 . W E L C O M E . 
 . . . . . . . . . 
