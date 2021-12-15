@@ -1,7 +1,7 @@
 N=int(input("N = ")) # taking the input from the user => N=5
 M=3*N  #  M is 3 times N 
 print("M =",M) #print M value => M=15  
-string=input("String = ") # enter a string value  =>WELCOME
+string="WELCOME" # enter a string value  =>WELCOME
 n=len(string) # len() -returns the length of the string  => n=7
 d=0 # for string indexing, intialize d value to 0 
 c=(M-n)//2 # c=(15-7)//2 = (8)//2 = 4 => c=4 
